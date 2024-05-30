@@ -2,9 +2,7 @@
  
 A security analyst has performed a Nessus Vulnerability Scan of a network and sent an urgent report to you. He claims that there is a server which is a huge security issue for your network and should be taken offline immediately. The concerned server turns out to be critical for your operations and cannot be turned off without causing a major business impact. It is used to exchange medical information with approximately 200 business partners around the country.
 
-
 ![](images/ea66eb99-b175-4203-ad62-769801c56bd2.png)
-
 
 The firewall in place applies the following rules:
 
